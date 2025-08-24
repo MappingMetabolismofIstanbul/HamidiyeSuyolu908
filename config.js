@@ -243,25 +243,6 @@ var config = {
             onChapterExit: []
         },
          {
-            id: 'seventeen-identifier',   
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: '',
-            description: '',
-            location: {
-                center: [28.995, 41.053],
-                zoom: 14,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-         {
             id: 'eighteen-identifier',  
             alignment: 'right',
             hidden: false,
