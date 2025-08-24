@@ -71,25 +71,6 @@ var config = {
             onChapterExit: []
         },
          {
-            id: 'four-identifier',
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: '',
-            description: '',
-            location: {
-                center: [28.930, 41.151],
-                zoom: 14,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-         {
             id: 'five-identifier',
             alignment: 'left',
             hidden: false,
@@ -136,44 +117,6 @@ var config = {
             description: '',
             location: {
                 center: [28.965, 41.118],
-                zoom: 14,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-          {
-            id: 'eight-identifier',
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: '',
-            description: '',
-            location: {
-                center: [28.971, 41.116],
-                zoom: 14,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-          {
-            id: 'nine-identifier',
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: '',
-            description: '',
-            location: {
-                center: [28.979, 41.111],
                 zoom: 14,
                 pitch: 0,
                 bearing: 0
@@ -278,25 +221,7 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        },
-          {
-            id: 'fifteen-identifier',   
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: '',
-            description: '',
-            location: {
-                center: [29.010, 41.059],
-                zoom: 14,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
+       
         },
           {
             id: 'sixteen-identifier',   
